@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itsasmaulhosna/itsasmaulhosna/main/banner.png" alt="Banner" width="100%">
+  <img src="https://github.com/itsasmaulhosna/itsasmaulhosna/blob/main/banner.png?raw=true" width="100%" alt="Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Asma Ul Hosna</h1>
@@ -39,13 +39,9 @@ I'm a passionate **MERN Stack Developer** and **Computer Science & Engineering (
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itsasmaulhosna&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsasmaulhosna&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=itsasmaulhosna&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsasmaulhosna&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
-
 ## 🔥 GitHub Streak
 
 <p align="center">
