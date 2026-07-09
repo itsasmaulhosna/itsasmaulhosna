@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/itsasmaulhosna/itsasmaulhosna/blob/main/banner.png?raw=true" width="100%" alt="Banner">
+  <img src="./banner.png" alt="GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Asma Ul Hosna</h1>
@@ -9,24 +9,37 @@
 </h3>
 
 <p align="center">
-Building Modern, Responsive & User-Friendly Web Applications
+Passionate about building modern, responsive, and user-friendly web applications using the MERN Stack.
 </p>
 
-##  About Me
 
-I'm a passionate **MERN Stack Developer** and **Computer Science & Engineering (CSE) student** from Bangladesh.
+# 👩‍💻 About Me
 
-- 🌱 Currently learning **Next.js**
-- 🚀 Building Full Stack MERN Applications
-- 💡 Passionate about creating modern web applications
-- 🎯 Goal: Become a Professional Software Engineer
+I am a passionate MERN Stack Developer and a Computer Science & Engineering (CSE) student from Bangladesh. I enjoy building responsive web applications using modern JavaScript technologies. I am continuously learning new tools and frameworks to improve my development skills and contribute to real-world projects.
 
-## Current Activities
 
-- 🔭 Working on MERN Stack Projects
-- 🌱 Learning Next.js
-- 📚 Exploring Backend Development
+# 🚀 Current Activities
+
+- 🌱 Exploring **Next.js**
+- 💻 Building Full Stack **MERN** Applications
+- 📚 Learning Backend Development & REST APIs
 - ⚡ Improving Problem Solving Skills
+
+# 💻 Skills
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+
 
 ## 💻 Tech Stack
 
@@ -36,13 +49,39 @@ I'm a passionate **MERN Stack Developer** and **Computer Science & Engineering (
 
 </p>
 
-## 📊 GitHub Stats
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://github.com/itsasmaulhosna">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/asma-ul-hosna-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mayabihere@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=itsasmaulhosna&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsasmaulhosna&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itsasmaulhosna&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsasmaulhosna&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
-## 🔥 GitHub Streak
+
+
+
+# 🔥 GitHub Streak
 
 <p align="center">
 
