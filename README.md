@@ -40,7 +40,7 @@ I'm a passionate **MERN Stack Developer** and **Computer Science & Engineering (
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itsasmaulhosna&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsasmaulhosna&layout=compact&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsasmaulhosna&layout=compact&theme=tokyonight&hide_border=true"/>
 
